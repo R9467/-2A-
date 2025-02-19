@@ -1,0 +1,5 @@
+este es un ejemplo de como agregar o actualizar datos desde githu
+para realizar esto utilisamos el comando:
+git pull origin master 
+o si trabajamos en rama main
+git pull origin main
